@@ -5,4 +5,9 @@ When the theme of fall was announced my mind instantly went to pumpkins. However
 
 My code draws a new pumpkin every three seconds randomly picking from four Kusama inspired colors: orange, red, blue, and green. The pumpkin graphic is made of three ellipses (pumpkin body), two round rectangles (stem), and five circles (dots). The dots get smaller the further they are from the center, which gives a bit of dimensionality to the pumpkin. All pumpkins have the same black dots. 
 
+Here is a gif of my coding process. It was a lot of trial and error.
+
+
+![ezgif com-gif-to-mp4-converter](https://github.com/user-attachments/assets/800177e6-cf73-434a-b345-334c4f247dcd)
+
 
