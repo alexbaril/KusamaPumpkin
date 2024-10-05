@@ -7,7 +7,5 @@ My code draws a new pumpkin every three seconds randomly picking from four Kusam
 
 Here is a gif of my coding process. It was a lot of trial and error.
 
-
-![ezgif com-gif-to-mp4-converter](https://github.com/user-attachments/assets/800177e6-cf73-434a-b345-334c4f247dcd)
-
+![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/c4b6f7f4-c6f1-47b7-a400-1a62a91b3bf7)
 
